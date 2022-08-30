@@ -1,7 +1,7 @@
 import React from "react";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import SignIn from "../component/signIn";
+import SignIn from "../component/Login";
 const AllRoutes=()=>
 {
     return (
