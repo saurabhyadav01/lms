@@ -3,4 +3,28 @@
     width: 25%;
   
     margin: auto;
+    margin-top: 15%;
+   
+}
+.login-form
+{
+    border: 1px solid red;
+   
+}
+input{
+    width: 95%;
+   
+   height: 35px;
+   border-radius: 1%;
+   border: none;
+   margin-left: 2%;
+}
+label{
+    margin-left: 2%;  
+}
+.submit{
+    font-size: 16px;
+    background-color: transparent;
+    border: 1px solid gray;
+    padding: 1%;
 }
