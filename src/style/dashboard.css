@@ -1,0 +1,14 @@
+.today-shedule
+{
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  margin: auto;
+  font-size: 16px;
+  padding: 1.5%;
+}
+Link{
+
+    text-decoration: none;
+}
+

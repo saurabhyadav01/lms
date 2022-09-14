@@ -18,7 +18,7 @@ export const Login_Request=(data,navigate)=>(dispatch)=>{
             //console.log(res.data);
             alert("Login Successfully");
             dispatch(login_succes(res.data))
-            navigate("/admin")
+            navigate("/Dashboard")
          }).catch((e)=>
          {
           alert("Invalid User")

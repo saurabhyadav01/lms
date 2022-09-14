@@ -20,7 +20,9 @@ function Header() {
         <div className="login-user">
           <h3 style={{textDecoration:"none",fontSize:"16px"}}>Login</h3>
         </div>
+        
       </div>
+      <hr></hr>
     </>
   );
 }
