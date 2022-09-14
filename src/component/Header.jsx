@@ -7,8 +7,8 @@ function Header() {
       <div className="container">
         <div className="header-link">
           <img src="https://www.masaischool.com/img/navbar/logo.svg" alt="" />
-          <Link  to="/" style={{textDecoration:"none",fontSize:"16px",padding:".5%"}}>Lecture</Link>
-          <Link to="/"  style={{textDecoration:"none",fontSize:"16px",padding:".5%"}}>Assignment</Link>
+          <Link  to="/lecture" style={{textDecoration:"none",fontSize:"16px",padding:".5%"}}>Lecture</Link>
+          <Link to="/assignment"  style={{textDecoration:"none",fontSize:"16px",padding:".5%"}}>Assignment</Link>
           <Link to="/"  style={{textDecoration:"none",fontSize:"16px",padding:".5%"}}>Quizze</Link>
           <Link to="/"  style={{textDecoration:"none",fontSize:"16px",padding:".5%"}}>TicketS</Link>
           <Link to="/"  style={{textDecoration:"none",fontSize:"16px",padding:".5%"}}>Discussions</Link>
